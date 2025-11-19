@@ -35,7 +35,6 @@ RegisterNumber:
 <img width="762" height="698" alt="Screenshot 2025-11-19 132034" src="https://github.com/user-attachments/assets/4bab9103-c622-47e6-a401-83821aa385fb" />
 
 ## Output:
-![lu decomposition]()
 <img width="1223" height="569" alt="Screenshot 2025-11-19 131404" src="https://github.com/user-attachments/assets/eba94329-8bef-4103-89de-a665d654b82a" />
 <img width="1074" height="319" alt="Screenshot 2025-11-19 132054" src="https://github.com/user-attachments/assets/d5e45d34-33f2-40f5-8dcf-269465287998" />
 
